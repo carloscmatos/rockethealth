@@ -2,5 +2,6 @@ postgres
 
 IP do banco: 10.0.1.19
 usuário: hackton
+dbname: hackton
 senha: CHUBACA1234
 port: 5432
